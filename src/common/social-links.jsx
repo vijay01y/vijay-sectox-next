@@ -51,8 +51,8 @@ const copy_right_text = {
   copy_right: (
     <>
       Copyright © {new Date().getFullYear()} Sectox by{" "}
-      <a href="https://www.websofy.com/" target="_blank">
-        Websofy Software Private Ltd.
+      <a href="#" target="_blank">
+       vijay
       </a>
       . All Rights Reserved.
     </>

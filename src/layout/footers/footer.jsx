@@ -14,7 +14,7 @@ const footer_content = {
   get_in_touch: "Get In Touch",
   location: (
     <>
-      Sharan Vihar HN-48 ,Indira Nagar,
+    
       <br />
       Lucknow ,Uttar Pradesh 226016, India
     </>

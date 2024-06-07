@@ -4,7 +4,7 @@ export const SocialLinkWebsofy = () => {
       <div className="hardware-social-icone">
         <div className="hardware-icon-bar">
           <a
-            href="https://www.facebook.com/WebsofySoftwarePvtLtd/"
+            href="https://www.facebook.com/"
             className="websofy-facebook"
             target="_blank"
           >
@@ -28,7 +28,7 @@ export const SocialLinkWebsofy = () => {
             </svg>
           </a>
           <a
-            href="https://twitter.com/websofysoftware/"
+            href="https://twitter.com/"
             className="websofy-twitter"
             target="_blank"
           >
@@ -63,7 +63,7 @@ export const SocialLinkWebsofy = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/websofysoftware/"
+            href="https://www.instagram.com/"
             className="websofy-instagram"
             target="_blank"
           >
@@ -168,7 +168,7 @@ export const SocialLinkWebsofy = () => {
             </svg>
           </a>
           <a
-            href="https://linkedin.com/in/websofysoftware/"
+            href="https://linkedin.com/in/"
             className="websofy-linkedin"
             target="_blank"
           >
