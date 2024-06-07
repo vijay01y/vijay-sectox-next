@@ -52,7 +52,7 @@ const copy_right_text = {
     <>
       Copyright © {new Date().getFullYear()} Sectox by{" "}
       <a href="#" target="_blank">
-       Vijay Tech
+       Rekha Tech
       </a>
       . All Rights Reserved.
     </>
