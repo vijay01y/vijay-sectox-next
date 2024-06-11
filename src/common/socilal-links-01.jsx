@@ -192,7 +192,7 @@ export const SocialLinkWebsofy = () => {
             </svg>
           </a>
           <a
-            href="https://youtube.com/user/websofy/"
+            href="https://youtube.com/"
             className="websofy-youtube"
             target="_blank"
           >
