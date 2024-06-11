@@ -212,7 +212,7 @@ export const SocialLinkWebsofy = () => {
               <path fill="#FFF" d="M20 31L20 17 32 24z"></path>
             </svg>
           </a>
-          <a href="tel:+91-9335785354" className="websofy-whatsapp" target="_blank">
+          <a href="tel:1234567890" className="websofy-whatsapp" target="_blank">
             click here{" "}
             <svg
               xmlns="http://www.w3.org/2000/svg"
